@@ -20,7 +20,7 @@
 ## About Me
 
 I’m Mayuresh Joshi,  a practitioner in the fields of Machine Learning and Deep Learning with a strong foundation in Python programming. My academic background, along with certifications in Python, machine learning, and deep learning, has helped me build a comprehensive understanding of both theoretical and practical aspects of AI. I’ve worked on projects involving data preprocessing, exploratory data analysis, predictive modeling, and computer vision.
-I am particularly interested in solving real-world problems through data-driven approaches and continue to explore areas such as Generative AI and MLOps. Based in Pune, I am always open to new opportunities, collaborative work, and continuous learning.
+I am particularly interested in solving real-world problems through data-driven approaches and continue to explore areas such as Generative AI and MLOps.📍Based in Pune, I am always open to new opportunities, collaborative work, and continuous learning.
 
 ---
 
