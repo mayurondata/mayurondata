@@ -1,10 +1,21 @@
-
-<h1 align="center">Hi, I'm Mayuresh Joshi</h1>
+<h1 align="center">Welcome to My GitHub 👋</h1>
 <p align="center">
-  Machine Learning and Deep Learning Practitioner | Python Developer
+  <strong>Mayuresh Joshi</strong><br/>
+  Machine Learning & Deep Learning Practitioner · Python Developer
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayuresh-joshi-723582203/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/mayureshjoshi_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:joshimayuresh45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 ## About Me
 
@@ -28,9 +39,10 @@ I am particularly interested in solving real-world problems through data-driven 
 
 ## Connect with Me
 
-- [Instagram](https://instagram.com/mayureshjoshi_)
-- [LinkedIn](https://www.linkedin.com/in/mayuresh-joshi-723582203/)
-- [Email](mailto:joshimayuresh45@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mayureshjoshi_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuresh-joshi-723582203/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshimayuresh45@gmail.com)
+
 
 ---
 
