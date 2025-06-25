@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub 👋</h1>
+<h1 align="center">Welcome to My GitHub</h1>
 <p align="center">
   <strong>Mayuresh Joshi</strong><br/>
   Machine Learning & Deep Learning Practitioner · Python Developer
@@ -16,18 +16,9 @@
   </a>
 </p>
 
+---
 
-#  About Me  
-Hi there! I'm Mayuresh — a data science professional with a background in mathematics and a master's degree in data science. I’m passionate about solving real-world problems through machine learning, deep learning, and AI-powered automation.
-I enjoy working on end-to-end data projects — from wrangling messy datasets to building predictive models and deploying them. I'm particularly interested in computer vision, natural language processing, and interpretable machine learning.
-I'm always open to meaningful collaborations and love connecting with like-minded people!
+I hold a bachelor's degree in Mathematics and a master's degree in Data Science. My professional interests lie in the areas of machine learning, deep learning, and algorithmic problem solving using Python. I am particularly focused on building end-to-end data-driven solutions, ranging from data preprocessing and model development to deployment. I am also interested in computer vision, natural language processing, and model interpretability. This GitHub repository serves as a platform to showcase selected personal and professional projects, experiments, and research in the field of data science.
 
+---
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayureshjoshi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayuresh-joshi-723582203/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshimayuresh45@gmail.com) 
-
-# 💻 Tech Stack:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
