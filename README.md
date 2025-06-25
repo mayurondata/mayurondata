@@ -11,6 +11,9 @@
   <a href="mailto:joshimayuresh45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://drive.google.com/file/d/1UUONqRsQAcaR6W-iZEZ3DLbGq5JolfXw/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=flat-square&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
 </p>
 
 ---
@@ -18,4 +21,3 @@
 I hold a bachelor's degree in Mathematics and a master's degree in Data Science. My professional interests lie in the areas of machine learning, deep learning, and algorithmic problem solving using Python. I am particularly focused on building end-to-end data-driven solutions, ranging from data preprocessing and model development to deployment. I am also interested in computer vision, natural language processing, and model interpretability. This GitHub repository serves as a platform to showcase selected personal and professional projects, experiments, and research in the field of data science.
 
 ---
-
