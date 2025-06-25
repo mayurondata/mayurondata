@@ -17,8 +17,11 @@
 </p>
 
 
-# 💫 About Me:
-<br><br>👯 I’m looking to collaborate on: Data science projects related to healthcare, environmental analytics, and AI-powered automation tools.<br><br>🤝 I’m looking for help with: Contributing to open-source ML/DL libraries and improving model interpretability (explainable AI).<br><br>🌱 I’m currently learning: Advanced NLP (LLMs, RAG pipelines), MLOps workflows, and generative AI using models like GPT and Stable Diffusion.<br><br>💬 Ask me about: Python, Machine Learning, Deep Learning, Model Deployment, Data Cleaning, and GitHub Project Structuring.<br><br>⚡ Fun fact: When I’m not coding, I’m usually out in the wild capturing birds through my lens or strumming my guitar to some mellow blues!<br>
+#  About Me  
+Hi there! I'm Mayuresh — a data science professional with a background in mathematics and a master's degree in data science. I’m passionate about solving real-world problems through machine learning, deep learning, and AI-powered automation.
+I enjoy working on end-to-end data projects — from wrangling messy datasets to building predictive models and deploying them. I'm particularly interested in computer vision, natural language processing, and interpretable machine learning.
+I'm always open to meaningful collaborations and love connecting with like-minded people!
+
 
 
 ## 🌐 Socials:
